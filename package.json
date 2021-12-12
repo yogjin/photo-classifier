@@ -1,0 +1,15 @@
+{
+  "name": "photo",
+  "version": "1.0.0",
+  "description": "photo classification",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app test"
+  },
+  "author": "yogjin",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
